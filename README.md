@@ -1,5 +1,5 @@
-# 11 Tips for .NET 6
-This is the repository for the LinkedIn Learning course 11 Tips for .NET 6. The full course is available from [LinkedIn Learning][lil-course-url].
+# 11 Tips for the .NET Developer 
+This is the repository for the LinkedIn Learning course 11 Tips for he .NET Developer. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![11 Tips for .NET 6][lil-thumbnail-url] 
 
@@ -11,7 +11,7 @@ Ramp up your developer skills today to improve your performance or land a new jo
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
 ## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `Tip#`. The `main` branch holds the final state of the code when in the course.
+The branches are structured to correspond to the videos in the course. The naming convention is `TipXX`. The `main` branch is empty.
 
 When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
 
