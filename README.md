@@ -1,4 +1,4 @@
-# 11 Tips for he .NET Developer
+# 11 Tips for the .NET Developer
 This is the repository for the LinkedIn Learning course `11 Tips for the .NET Developer`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
