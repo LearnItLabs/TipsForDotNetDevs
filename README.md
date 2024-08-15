@@ -1,5 +1,5 @@
-# 11 Tips for .NET 6
-This is the repository for the LinkedIn Learning course 11 Tips for .NET. The full course is available from [LinkedIn Learning][lil-course-url].
+# 11 Tips for .NET Developers
+This is the repository for the LinkedIn Learning course 11 Tips for .NET Developers. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![banner](https://github.com/LearnItLabs/SiteAssets/blob/78fc8d3e6156de51b8c8cbff35e1e60e7b53b7b9/GitHubBanner.png)
 
