@@ -1,7 +1,7 @@
 # 11 Tips for .NET 6
 This is the repository for the LinkedIn Learning course 11 Tips for .NET. The full course is available from [LinkedIn Learning][lil-course-url].
 
-
+![banner](https://github.com/LearnItLabs/SiteAssets/blob/78fc8d3e6156de51b8c8cbff35e1e60e7b53b7b9/GitHubBanner.png)
 
 Microsoft .NET is equipped with so many libraries and APIs that sometimes it’s hard to keep track of it all. Even if you’ve been a .NET developer for years, you probably still encounter features that you didn’t know were there. Now’s the time to get your skills up to speed in this approachable course with instructor Walt Ritscher, exploring eleven key coding tips to boost your know-how in .NET 6.
 
