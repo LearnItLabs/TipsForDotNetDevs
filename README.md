@@ -46,5 +46,5 @@ Check out Walt's [other courses](https://www.linkedin.com/learning/instructors/w
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/walt-ritscher).
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/eleven-tips-for-the-dot-net-developer/
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2486135/2486135-1655838671011-16x9.jpg
