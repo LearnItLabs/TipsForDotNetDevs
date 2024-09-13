@@ -8,7 +8,7 @@ Microsoft .NET is equipped with so many libraries and APIs that sometimes it’s
 Ramp up your developer skills today to improve your performance or land a new job. Learn the most essential, easy-to-use tricks to get the most out of the .NET experience, including single file deployment, SelectMany, DateOnly, Humanizer, ReadOnlyCollection, .Combine, fake test data with Bogus, adding version endpoints, counting Unicode string characters, ToLookup, and Zip files. Upon completing this course, you’ll be ready to tackle your next .NET coding challenge more efficiently, quickly, and with ease.
 
 ## Instructions
-This repository contains example code for each of the videos in the courses organized into branches. 
+This repository contains example code for each of the videos in the coursem organized into branches. 
 
 You can use the branch pop up menu in github to switch to a specific branch and view the code at that stage of the course. Alternatively, you can directly access a specific branch by adding `/tree/BRANCH_NAME` to the URL.
 
@@ -42,6 +42,9 @@ Learn-it Labs is a boutique video training company based in the Seattle area. Fo
 
 Check out Walt's [other courses](https://www.linkedin.com/learning/instructors/walt-ritscher) on LinkedIn Learning.  Follow on [LinkedIn](https://www.linkedin.com/in/waltritscher/?trk=lil_course) and [Twitter](https://twitter.com/waltritscher). 
 
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/walt-ritscher).
 
 [lil-course-url]: https://www.linkedin.com/learning/eleven-tips-for-the-dot-net-developer/
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2486135/2486135-1655838671011-16x9.jpg
