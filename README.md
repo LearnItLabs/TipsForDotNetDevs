@@ -43,5 +43,5 @@ Learn-it Labs is a boutique video training company based in the Seattle area. Fo
 Check out Walt's [other courses](https://www.linkedin.com/learning/instructors/walt-ritscher) on LinkedIn Learning.  Follow on [LinkedIn](https://www.linkedin.com/in/waltritscher/?trk=lil_course) and [Twitter](https://twitter.com/waltritscher). 
 
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/eleven-tips-for-the-dot-net-developer/
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2486135/2486135-1655838671011-16x9.jpg
